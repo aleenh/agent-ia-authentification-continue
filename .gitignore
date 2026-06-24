@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+agent_log.txt
+security_log.txt
+rapport_tests.json
+# Note : les fichiers .pkl (model_final.pkl, label_encoders.pkl, profils_utilisateurs.pkl)
+# sont volontairement INCLUS dans le dépôt car nécessaires au fonctionnement du projet.
+# S'ils dépassent la limite GitHub (100 Mo), utiliser Git LFS : https://git-lfs.com
+
+# Node / React
+node_modules/
+dist/
+.vite/
+*.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/

@@ -1,0 +1,4 @@
+agent_ia/model_final.pkl filter=lfs diff=lfs merge=lfs -text
+agent_ia/label_encoders.pkl filter=lfs diff=lfs merge=lfs -text
+agent_ia/profils_utilisateurs.pkl filter=lfs diff=lfs merge=lfs -text
+rapport/Rapport_Agent_IA.pdf filter=lfs diff=lfs merge=lfs -text

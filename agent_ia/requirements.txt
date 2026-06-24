@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+psycopg2-binary
+pyjwt
+apscheduler
+streamlit
+scikit-learn==1.7.2
+pandas
+numpy
+requests
+python-multipart
